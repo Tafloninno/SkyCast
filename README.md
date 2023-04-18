@@ -70,7 +70,7 @@
 
 ## 🚀 Live Demo <a name="live-demo" ></a>
 
-- [Live Demo](Coming soon...)
+- [Live Demo](https://tafloninno.github.io/Third-Capstone-project/)
 
   [Presentation video](https://www.loom.com/share/21ca17050ae04d28b2ebd1cdbe8f01c4)
 
@@ -157,7 +157,7 @@ If you like this project,give it a ⭐️!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Thanks to everyone whose idea and codebase was used in this project. Moreso to other Micronauts who have actively offered their support in bug fixing🙏
+Thanks to Nelson Sakwa. whose idea and codebase was used in this project. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
