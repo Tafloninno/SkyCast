@@ -1,4 +1,4 @@
-
+/* eslint-disable camelcase */
 const API_KEY = '4ffefc847431048ee9271c1ac89e9ad2';
 
 const generateIconUrl = (iconId) => `https://www.openweathermap.org/img/wn/${iconId}@2x.png`;
