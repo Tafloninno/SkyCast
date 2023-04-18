@@ -1,3 +1,4 @@
+// eslint-disable
 import { configureStore } from '@reduxjs/toolkit';
 import logger from 'redux-logger';
 import citiesReducer from './cities/citiesSlice';
