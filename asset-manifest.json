@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Third-Capstone-project/static/css/main.4cb97ff3.css",
+    "main.js": "/Third-Capstone-project/static/js/main.b0de07b4.js",
+    "static/media/bg.jpg": "/Third-Capstone-project/static/media/bg.e3b884a112000ccd88ef.jpg",
+    "static/media/logo.png": "/Third-Capstone-project/static/media/logo.bf37eef186b2bb5b9984.png",
+    "index.html": "/Third-Capstone-project/index.html",
+    "main.4cb97ff3.css.map": "/Third-Capstone-project/static/css/main.4cb97ff3.css.map",
+    "main.b0de07b4.js.map": "/Third-Capstone-project/static/js/main.b0de07b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb97ff3.css",
+    "static/js/main.b0de07b4.js"
+  ]
+}
