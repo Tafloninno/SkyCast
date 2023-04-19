@@ -35,7 +35,7 @@
 
 # 📖 [Weather App <a name="about-project"></a>
 
-
+This is a react.js weather SPA using openweathermap.org API to display cities weather and give detailed data of every city.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -157,7 +157,7 @@ If you like this project,give it a ⭐️!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Thanks to Nelson Sakwa. whose idea and codebase was used in this project. 
+I'd like to thank Microverse and [Nelson Sakwa on Behance ](https://www.behance.net/sakwadesignstudio)for the amazing design template.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,6 +169,6 @@ N/A
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
