@@ -72,7 +72,7 @@ This is a react.js weather SPA using openweathermap.org API to display cities we
 
 - [Live Demo](https://tafloninno.github.io/Third-Capstone-project/)
 
-  [Presentation video](https://www.loom.com/share/21ca17050ae04d28b2ebd1cdbe8f01c4)
+  [Presentation video](https://www.loom.com/share/26a561439bae4e67b5a14de8e65febca)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
