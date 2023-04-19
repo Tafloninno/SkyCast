@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Card component 1`] = `
+<div
+  className="card_details_wrapper"
+/>
+`;
