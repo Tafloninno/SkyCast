@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { v4 as uuidv4 } from 'uuid';
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom'; // 1. Import useNavigate
 import logo from '../photo/logo.png';
 import Card from './card';
 import { fetchCities, selectCitiesData } from '../redux/cities/citiesSlice';
@@ -22,6 +22,7 @@ const Home = () => {
 
   const dispatch = useDispatch();
   const weatherData = useSelector(selectCitiesData);
+ 
 
   const [filter, setFilter] = useState('');
   const [filteredCities, setFilteredCities] = useState(cities);
@@ -33,6 +34,7 @@ const Home = () => {
 
     fetchCitiesData();
   }, [dispatch, filteredCities]);
+
 
   const getData = async (cityname) => {
     localStorage.setItem('cityname', JSON.stringify(cityname));
