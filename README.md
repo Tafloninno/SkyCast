@@ -70,7 +70,7 @@ This is a react.js weather SPA using openweathermap.org API to display cities we
 
 ## 🚀 Live Demo <a name="live-demo" ></a>
 
-- [Live Demo](https://tafloninno.github.io/Third-Capstone-project/)
+- [Live Demo](https://66159969d9897b293763540f--silver-buttercream-ab2563.netlify.app/)
 
   [Presentation video](https://www.loom.com/share/26a561439bae4e67b5a14de8e65febca)
 
