@@ -22,7 +22,6 @@ const Home = () => {
 
   const dispatch = useDispatch();
   const weatherData = useSelector(selectCitiesData);
- 
 
   const [filter, setFilter] = useState('');
   const [filteredCities, setFilteredCities] = useState(cities);
@@ -34,7 +33,6 @@ const Home = () => {
 
     fetchCitiesData();
   }, [dispatch, filteredCities]);
-
 
   const getData = async (cityname) => {
     localStorage.setItem('cityname', JSON.stringify(cityname));
