@@ -30,7 +30,7 @@ const Details = () => {
       }
     };
     fetchWeatherData();
-  }, []);
+  }, [units]);
 
   if (error) {
     return (
